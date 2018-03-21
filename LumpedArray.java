@@ -27,7 +27,7 @@ public class LumpedArray {
         for (int j = 0; j < array2.length; j++) {
             System.out.print(array2[j] + "\t");
         }
-        //laumped array
+        //lumped array
         for (int i = 0; i < array1.length; i++) {
             temp = array1[i];
             array1[i] = array3[i];
